@@ -49,7 +49,7 @@ print(result)
 
 
 # 11- Liste elemanlarını tersten yazdırınız.
-result = cars[::-1]
+result = cars[::-1] # [::] tüm elemanları seç demek
 print(result)
 
 # 12- Aşağıdaki verileri bir liste içinde saklayınız. 

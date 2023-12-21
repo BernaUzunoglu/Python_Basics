@@ -70,7 +70,7 @@ print(ogrenciler)
 
 print('*'*50)
 
-ogrNo = input('öğrenci no: ')
+ogrNo = input('öğrenci no: ') # Girilen değer sözlüğe eklenilen öğrenci no olmalıdır.
 ogrenci = ogrenciler[ogrNo]
 print(ogrenci)
 

@@ -17,7 +17,7 @@ searchInput.send_keys("Python")
 searchInput.send_keys(Keys.RETURN)
 time.sleep(10)
 
-# result = driver.page_source  # bu ifade ile sayfanın kaynak kodlarını bir değişken üzerine alıp değişken üzerinden etiketlere ulaşabiliriz.
+# result = driver.page_source  # bu ifade ile sayfanın kaynak kodlarını bir değişken üzerine alıp değişken üzerinden etiketlere
 
 result = driver.find_elements(By.CSS_SELECTOR,'[class="big-gray my-1"]')
 

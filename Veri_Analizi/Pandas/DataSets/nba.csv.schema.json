@@ -1,0 +1,52 @@
+{
+  "fields": [
+    {
+      "name": "Name",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Team",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Number",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Position",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Age",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Height",
+      "type": "yearmonth",
+      "format": "default"
+    },
+    {
+      "name": "Weight",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "College",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Salary",
+      "type": "number",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
